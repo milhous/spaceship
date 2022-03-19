@@ -1,0 +1,127 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "cc00e8ce-9da0-4710-a8c0-06bd214fa9e3",
+  "files": [],
+  "subMetas": {
+    "4c0c7": {
+      "importer": "gltf-mesh",
+      "uuid": "cc00e8ce-9da0-4710-a8c0-06bd214fa9e3@4c0c7",
+      "displayName": "",
+      "id": "4c0c7",
+      "name": "SciFi_Fighter_AK5.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "915b2": {
+      "importer": "gltf-embeded-image",
+      "uuid": "cc00e8ce-9da0-4710-a8c0-06bd214fa9e3@915b2",
+      "displayName": "",
+      "id": "915b2",
+      "name": "Map #5.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f3416": {
+      "importer": "texture",
+      "uuid": "cc00e8ce-9da0-4710-a8c0-06bd214fa9e3@f3416",
+      "displayName": "",
+      "id": "f3416",
+      "name": "Map #5.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "cc00e8ce-9da0-4710-a8c0-06bd214fa9e3@915b2"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7fc99": {
+      "importer": "gltf-material",
+      "uuid": "cc00e8ce-9da0-4710-a8c0-06bd214fa9e3@7fc99",
+      "displayName": "",
+      "id": "7fc99",
+      "name": "SciFi_Fighter_AK5.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "50c42": {
+      "importer": "gltf-scene",
+      "uuid": "cc00e8ce-9da0-4710-a8c0-06bd214fa9e3@50c42",
+      "displayName": "",
+      "id": "50c42",
+      "name": "SF_Free-Fighter.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #5",
+        "uri": "cc00e8ce-9da0-4710-a8c0-06bd214fa9e3@915b2"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "cc00e8ce-9da0-4710-a8c0-06bd214fa9e3@50c42",
+    "assetFinder": {
+      "meshes": [
+        "cc00e8ce-9da0-4710-a8c0-06bd214fa9e3@4c0c7"
+      ],
+      "skeletons": [],
+      "textures": [
+        "cc00e8ce-9da0-4710-a8c0-06bd214fa9e3@f3416"
+      ],
+      "materials": [
+        "cc00e8ce-9da0-4710-a8c0-06bd214fa9e3@7fc99"
+      ],
+      "scenes": [
+        "cc00e8ce-9da0-4710-a8c0-06bd214fa9e3@50c42"
+      ]
+    },
+    "meshOptimizer": false,
+    "dumpMaterials": false,
+    "materialDumpDir": "db://assets/bundle/game/models/SF_Fighter/Materials_SF_Free-Fighter",
+    "useVertexColors": true
+  }
+}
